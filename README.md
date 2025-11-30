@@ -73,36 +73,42 @@ This list powers the live student tools page on:
   * **Short Description:** Access a massive bundle of developer tools, cloud credits, IDEs, and more for free.
   * **Benefit:** Unlocks an entire ecosystem of premium dev tools and services with a single student verification.
   * **Verification:** Requires GitHub Education student verification (typically a school email or proof of enrollment).
+  * **Cost:** Free
   * **Link:** https://education.github.com/students
 
 * Google Antigravity  
-  * **Short Description:** Google’s AI-first IDE for modern development workflows.
+  * **Short Description:** Google's AI-first IDE for modern development workflows.
   * **Benefit:** Lets you experiment with AI-assisted coding and modern cloud-native workflows without extra cost.
   * **Verification:** Generally available with a Google account; check the page for any region or access limitations.
+  * **Cost:** Free
   * **Link:** https://antigravity.google/
 
 * Visual Studio Community Edition  
   * **Short Description:** Free full-featured IDE for .NET, C++, and cross-platform development.
   * **Benefit:** Gives you the same IDE used in industry for building professional Windows and .NET applications.
   * **Verification:** Free for individual developers, students, and certain organizations; no special student proof typically required.
+  * **Cost:** Free
   * **Link:** https://visualstudio.microsoft.com/free-developer-offers/
 
 * JetBrains Student License  
   * **Short Description:** Free access to all JetBrains IDEs (PyCharm, IntelliJ, WebStorm, CLion, etc.).
-  * **Benefit:** Unlocks pro-level IDEs for almost every major language and platform while you’re a student.
+  * **Benefit:** Unlocks pro-level IDEs for almost every major language and platform while you're a student.
   * **Verification:** Requires a verified student status (usually student email or ISIC/other proof).
+  * **Cost:** Free
   * **Link:** https://www.jetbrains.com/academy/student-pack/#students
 
 * Replit for Students  
   * **Short Description:** Browser-based development + hosting with student-friendly upgrades.
   * **Benefit:** Lets you code, collaborate, and deploy from the browser without needing a local setup.
   * **Verification:** Some education-specific benefits may require school domain or classroom setup; base tier is free.
+  * **Cost:** Free
   * **Link:** https://replit.com/education
 
 * GitKraken Student Pack  
   * **Short Description:** Premium Git client and workflow tooling for students.
   * **Benefit:** Helps you visualize Git history and manage repos more easily during coursework and projects.
   * **Verification:** Usually tied to GitHub Student Developer Pack or student email verification.
+  * **Cost:** Free
   * **Link:** https://www.gitkraken.com/github-student-developer-pack
 
 ---
@@ -113,30 +119,35 @@ This list powers the live student tools page on:
   * **Short Description:** $100 credit, free App Services, VMs — no credit card required.
   * **Benefit:** Gives you real cloud resources to deploy apps, databases, and services for coursework and side projects.
   * **Verification:** Requires proof of student status (typically via academic email).
+  * **Cost:** Credit
   * **Link:** https://azure.microsoft.com/en-us/free/students
 
 * AWS Educate  
   * **Short Description:** Credits + sandbox environments for learning AWS cloud.
   * **Benefit:** Provides AWS credits and training environments to practice cloud skills.
   * **Verification:** Requires student registration with school details; eligibility varies by region and institution.
+  * **Cost:** Credit
   * **Link:** https://aws.amazon.com/education/
 
 * Google Cloud Free Tier  
   * **Short Description:** Always-free compute, serverless hosting, and ML APIs.
   * **Benefit:** Lets you run small services, APIs, and ML workloads continuously at no cost.
   * **Verification:** Requires a Google account; some free-tier usage may still ask for a card for identity verification.
+  * **Cost:** Credit
   * **Link:** https://cloud.google.com/free
 
 * Oracle Cloud Free Tier  
   * **Short Description:** Always-free ARM VMs, databases, object storage, etc.
   * **Benefit:** Provides persistent VMs and managed databases suitable for learning Linux, databases, and cloud.
   * **Verification:** Requires creating an Oracle Cloud account; identity verification may vary by region.
+  * **Cost:** Free
   * **Link:** https://www.oracle.com/cloud/free/
 
 * DigitalOcean Credits (via GitHub Pack)  
   * **Short Description:** Deploy apps, containers, and databases easily.
   * **Benefit:** Use cloud credits to spin up real servers and services for your apps.
   * **Verification:** Tied to GitHub Student Developer Pack eligibility.
+  * **Cost:** Credit
   * **Link:** https://www.digitalocean.com/github-students
 
 ---
@@ -147,36 +158,42 @@ This list powers the live student tools page on:
   * **Short Description:** Advanced AI model for free — text, code, embedding & more.
   * **Benefit:** Lets you integrate state-of-the-art AI into projects and experiments without extra cost.
   * **Verification:** Requires a Google account and acceptance of API or product terms.
+  * **Cost:** Free
   * **Link:** https://gemini.google.com/access
 
 * Kaggle  
   * **Short Description:** Free GPU & TPU notebooks for ML experiments.
   * **Benefit:** Provides hosted Jupyter-like notebooks with free accelerators for training and experimenting.
   * **Verification:** Requires a Kaggle account; no formal student verification for free usage.
+  * **Cost:** Free
   * **Link:** https://www.kaggle.com/notebooks
 
 * Google Colab  
   * **Short Description:** Free cloud notebook environment with GPU access.
   * **Benefit:** Lets you run Python notebooks with GPUs directly in the browser.
   * **Verification:** Requires a Google account; free tier is open to all.
+  * **Cost:** Free
   * **Link:** https://colab.research.google.com/
 
 * AWS SageMaker Studio Lab  
   * **Short Description:** Free T4 GPU for training ML models.
   * **Benefit:** Offers a managed environment with free GPU time for ML workloads.
   * **Verification:** Requires sign-up and approval; usage is time-limited and subject to AWS policies.
+  * **Cost:** Free
   * **Link:** https://aws.amazon.com/sagemaker/studio-lab/
 
 * Hugging Face  
   * **Short Description:** Models, datasets, Spaces, and inference endpoints.
   * **Benefit:** Central place to find, host, and experiment with pre-trained models and datasets.
   * **Verification:** Requires a Hugging Face account; most community resources are free to browse and use within limits.
+  * **Cost:** Free
   * **Link:** https://huggingface.co/
 
 * Weights & Biases  
   * **Short Description:** Experiment tracking and model performance visualization.
   * **Benefit:** Helps you log metrics, compare runs, and manage experiments professionally.
   * **Verification:** Free tier available; educational or research upgrades may require additional details.
+  * **Cost:** Free
   * **Link:** https://wandb.ai/site
 
 ---
@@ -187,36 +204,42 @@ This list powers the live student tools page on:
   * **Short Description:** Fully-managed cloud NoSQL database with student credit.
   * **Benefit:** Lets you run real MongoDB clusters in the cloud without managing servers.
   * **Verification:** Student-specific offers may require GitHub Education or school email; base free tier is general.
+  * **Cost:** Credit
   * **Link:** https://education.github.com/pack?sort=popularity&tag=Databases
 
 * Firebase  
   * **Short Description:** Authentication, hosting, realtime DB, and serverless functions.
   * **Benefit:** Gives you a full backend stack (auth, DB, hosting) for web and mobile apps.
   * **Verification:** Requires a Google account; generous free tier available without student-specific proof.
+  * **Cost:** Free
   * **Link:** https://firebase.google.com/pricing
 
 * AWS DynamoDB  
   * **Short Description:** NoSQL database with an always-free usage tier.
   * **Benefit:** Lets you use a production-grade NoSQL store within free-tier limits.
   * **Verification:** Requires an AWS account; free-tier usage is time and volume limited.
+  * **Cost:** Free
   * **Link:** https://aws.amazon.com/dynamodb/
 
 * AWS S3  
   * **Short Description:** Object storage with Free Tier for hosting/static apps.
   * **Benefit:** Great for storing static sites, assets, and data archives.
   * **Verification:** Requires an AWS account; free tier has usage limits.
+  * **Cost:** Free
   * **Link:** https://aws.amazon.com/s3/
 
 * Azure Cosmos DB Free Tier  
   * **Short Description:** Global distributed database with a generous free tier.
   * **Benefit:** Lets you experiment with globally replicated NoSQL databases.
   * **Verification:** Requires an Azure account; free tier is capacity-limited.
+  * **Cost:** Free
   * **Link:** https://azure.microsoft.com/en-us/products/cosmos-db
 
 * Oracle Autonomous Database  
   * **Short Description:** Always-free self-driving database.
   * **Benefit:** Provides managed database instances that handle tuning and maintenance.
   * **Verification:** Requires an Oracle Cloud account; free tier has resource limits.
+  * **Cost:** Free
   * **Link:** https://www.oracle.com/autonomous-database/free/
 
 ---
@@ -227,18 +250,21 @@ This list powers the live student tools page on:
   * **Short Description:** Error monitoring and performance tracking for applications.
   * **Benefit:** Helps you catch and debug errors in real time in your apps.
   * **Verification:** Free tier available; education programs may require additional details.
+  * **Cost:** Free
   * **Link:** https://sentry.io/for/education/
 
 * Heroku (GitHub Pack Version)  
   * **Short Description:** Simple app deployment for students.
   * **Benefit:** Push code and get a live app without managing infrastructure.
   * **Verification:** Student benefits are tied to GitHub Student Developer Pack eligibility.
+  * **Cost:** Credit
   * **Link:** https://www.heroku.com/students/
 
 * GitHub Actions  
   * **Short Description:** CI/CD automation built directly into GitHub.
   * **Benefit:** Lets you run tests, builds, and deployments automatically on every push or PR.
   * **Verification:** Included with GitHub accounts; usage is limited by free-tier runner minutes.
+  * **Cost:** Free
   * **Link:** https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions
 
 ---
@@ -249,30 +275,35 @@ This list powers the live student tools page on:
   * **Short Description:** Free/discounted opportunities to earn industry credentials.
   * **Benefit:** Lets you validate skills with recognized certifications.
   * **Verification:** Typically requires linking to a student account or school email.
+  * **Cost:** Discount
   * **Link:** https://learn.microsoft.com/en-us/certifications/student-hub
 
 * JetBrains Academy / Hyperskill  
   * **Short Description:** Project-based interactive learning with student pricing.
   * **Benefit:** Helps you learn by building guided, real-world style projects.
   * **Verification:** Student discounts may require academic email or proof; some content is free.
+  * **Cost:** Discount
   * **Link:** https://hyperskill.org/
 
 * IBM SkillsBuild  
   * **Short Description:** Free cybersecurity, cloud, and data science courses.
   * **Benefit:** Provides structured learning paths with badges and practical labs.
   * **Verification:** Requires registration; some programs may partner with institutions.
+  * **Cost:** Free
   * **Link:** https://skillsbuild.org/
 
 * DataCamp  
   * **Short Description:** Student-discount access to Python, data science, and ML courses.
   * **Benefit:** Gives you access to interactive courses in data and analytics.
   * **Verification:** Student discounts typically require an academic email or proof.
+  * **Cost:** Free
   * **Link:** https://www.datacamp.com/pricing/students
 
 * Coursera for Campus  
   * **Short Description:** Free access if your institution participates.
   * **Benefit:** Allows you to take university and industry courses via your school.
   * **Verification:** Requires your institution to be enrolled; access is via school login.
+  * **Cost:** Free
   * **Link:** https://www.coursera.org/campus
 
 ---
@@ -283,30 +314,35 @@ This list powers the live student tools page on:
   * **Short Description:** Presentation & design tool with premium student access.
   * **Benefit:** Lets you design slides, posters, and social graphics with pro templates.
   * **Verification:** Requires school domain or verification through an education program.
+  * **Cost:** Free
   * **Link:** https://www.canva.com/education/students/
 
 * Figma Professional  
   * **Short Description:** Free Pro plan for students and educators.
   * **Benefit:** Gives you full Figma features for UI/UX design and collaboration.
   * **Verification:** Requires application with academic email or proof.
+  * **Cost:** Free
   * **Link:** https://www.figma.com/education/
 
 * Adobe Creative Cloud  
   * **Short Description:** Full suite at a discounted student rate.
   * **Benefit:** Access to Photoshop, Illustrator, Premiere, and more at reduced pricing.
   * **Verification:** Requires proof of enrollment (usually via student email or documentation).
+  * **Cost:** Discount
   * **Link:** https://www.adobe.com/creativecloud/buy/students.html
 
 * Autodesk Tools  
   * **Short Description:** Free AutoCAD, Maya, and more.
   * **Benefit:** Gives you access to industry CAD and 3D tools used in engineering and media.
   * **Verification:** Requires Autodesk Education account and proof of academic status.
+  * **Cost:** Free
   * **Link:** https://www.autodesk.com/education/edu-software/overview
 
 * Unity Student Plan  
   * **Short Description:** Game development engine with student benefits.
   * **Benefit:** Provides access to Unity tools and learning resources tailored to students.
-  * **Verification:** Requires student status verification through Unity’s education portal.
+  * **Verification:** Requires student status verification through Unity's education portal.
+  * **Cost:** Free
   * **Link:** https://unity.com/products/unity-student
 
 ---
@@ -317,24 +353,28 @@ This list powers the live student tools page on:
   * **Short Description:** Hands-on cybersecurity labs with student paths.
   * **Benefit:** Lets you practice offensive and defensive security in guided environments.
   * **Verification:** Base tier is free; student discounts or team access may require verification.
+  * **Cost:** Free
   * **Link:** https://tryhackme.com/
 
 * Hack The Box Academy  
   * **Short Description:** Free foundational cybersecurity content + discounts.
   * **Benefit:** Provides structured learning paths with real-world style labs.
   * **Verification:** Requires an HTB account; some student offerings may need proof.
+  * **Cost:** Free
   * **Link:** https://academy.hackthebox.com/
 
 * Splunk for Students  
   * **Short Description:** Free access to Splunk fundamentals.
   * **Benefit:** Teaches you how to use SIEM/log analytics platforms used in SOCs.
   * **Verification:** Typically part of Splunk education/Work+ programs; may need school details.
+  * **Cost:** Free
   * **Link:** https://workplus.splunk.com/programs/splunkworkplusforstudents/
 
 * Palo Alto CyberAces  
   * **Short Description:** Free cybersecurity learning program.
   * **Benefit:** Offers foundational cybersecurity theory and practice content.
   * **Verification:** Free to register; no strict student-only requirement in most cases.
+  * **Cost:** Free
   * **Link:** https://www.cyberaces.org/
 
 ---
@@ -345,24 +385,28 @@ This list powers the live student tools page on:
   * **Short Description:** Word, Excel, PowerPoint, Teams — free for most universities.
   * **Benefit:** Gives you core productivity tools needed for coursework and collaboration.
   * **Verification:** Requires eligible school email; availability depends on institution.
+  * **Cost:** Free
   * **Link:** https://www.microsoft.com/en-us/education/products/office
 
 * Notion (Education Plan)  
   * **Short Description:** Notes, projects, documentation — free for students.
   * **Benefit:** Centralizes planning, notes, and docs into a single workspace.
   * **Verification:** Education plan generally requires academic email sign-up.
+  * **Cost:** Free
   * **Link:** https://www.notion.so/product/notion-for-education
 
 * Overleaf  
   * **Short Description:** Collaborative LaTeX editor for papers & reports.
   * **Benefit:** Makes writing LaTeX documents easier with real-time collaboration.
   * **Verification:** Free tier is open to all; institutional features may require campus agreements.
+  * **Cost:** Free
   * **Link:** https://www.overleaf.com/edu
 
 * Zotero  
   * **Short Description:** Powerful citation & reference manager.
   * **Benefit:** Helps you organize sources and generate citations/bibliographies.
   * **Verification:** Free to use; no specific student verification required.
+  * **Cost:** Free
   * **Link:** https://www.zotero.org/
 
 ---

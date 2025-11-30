@@ -16,24 +16,6 @@ CATEGORY_MAP = {
 }
 
 
-def determine_cost(benefit_raw, name):
-    """Determine the cost type based on keywords in the benefit description."""
-    benefit_lower = benefit_raw.lower()
-    name_lower = name.lower()
-
-    if "free" in benefit_lower and "discount" not in benefit_lower and "credit" not in benefit_lower:
-        return "Free"
-    if "credit" in benefit_lower or "gift card" in benefit_lower:
-        return "Credit"
-    if "discount" in benefit_lower or "off" in benefit_lower or "reduced price" in benefit_lower:
-        return "Discount/Credit"
-
-    if any(keyword in name_lower for keyword in ["free tier", "community", "always free", "studio lab"]):
-        return "Free"
-
-    return "Discount/Credit"
-
-
 def parse_readme_to_json(readme_path="README.md", json_path="data.json"):
     """
     Parses the README.md into a structured JSON file (data.json) using the strict
@@ -43,6 +25,7 @@ def parse_readme_to_json(readme_path="README.md", json_path="data.json"):
       * **Short Description:** ...
       * **Benefit:** ...
       * **Verification:** ...
+      * **Cost:** ...
       * **Link:** ...
     """
 
@@ -57,6 +40,7 @@ def parse_readme_to_json(readme_path="README.md", json_path="data.json"):
         r'\s*\*\s+\*\*Short Description:\*\*\s+(.+?)\n'     # Short Description
         r'\s*\*\s+\*\*Benefit:\*\*\s+(.+?)\n'              # Benefit
         r'\s*\*\s+\*\*Verification:\*\*\s+(.+?)\n'         # Verification
+        r'\s*\*\s+\*\*Cost:\*\*\s+(.+?)\n'                 # Cost
         r'\s*\*\s+\*\*Link:\*\*\s+(.+?)(?:\n|$)',          # Link
         re.IGNORECASE | re.DOTALL
     )
@@ -92,9 +76,8 @@ def parse_readme_to_json(readme_path="README.md", json_path="data.json"):
                 short_desc = match.group(2).strip()
                 benefit_raw = match.group(3).strip()
                 verification = match.group(4).strip()
-                link = match.group(5).strip()
-
-                cost = determine_cost(benefit_raw, name)
+                cost = match.group(5).strip()
+                link = match.group(6).strip()
 
                 tool_data = {
                     "name": name,

@@ -9,15 +9,15 @@
         "benefit": "Unlocks an entire ecosystem of premium dev tools and services with a single student verification.",
         "verification": "Requires GitHub Education student verification (typically a school email or proof of enrollment).",
         "link": "https://education.github.com/students",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Google Antigravity",
-        "short_desc": "Google’s AI-first IDE for modern development workflows.",
+        "short_desc": "Google's AI-first IDE for modern development workflows.",
         "benefit": "Lets you experiment with AI-assisted coding and modern cloud-native workflows without extra cost.",
         "verification": "Generally available with a Google account; check the page for any region or access limitations.",
         "link": "https://antigravity.google/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Visual Studio Community Edition",
@@ -30,10 +30,10 @@
       {
         "name": "JetBrains Student License",
         "short_desc": "Free access to all JetBrains IDEs (PyCharm, IntelliJ, WebStorm, CLion, etc.).",
-        "benefit": "Unlocks pro-level IDEs for almost every major language and platform while you’re a student.",
+        "benefit": "Unlocks pro-level IDEs for almost every major language and platform while you're a student.",
         "verification": "Requires a verified student status (usually student email or ISIC/other proof).",
         "link": "https://www.jetbrains.com/academy/student-pack/#students",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Replit for Students",
@@ -41,7 +41,7 @@
         "benefit": "Lets you code, collaborate, and deploy from the browser without needing a local setup.",
         "verification": "Some education-specific benefits may require school domain or classroom setup; base tier is free.",
         "link": "https://replit.com/education",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "GitKraken Student Pack",
@@ -49,7 +49,7 @@
         "benefit": "Helps you visualize Git history and manage repos more easily during coursework and projects.",
         "verification": "Usually tied to GitHub Student Developer Pack or student email verification.",
         "link": "https://www.gitkraken.com/github-student-developer-pack",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -63,7 +63,7 @@
         "benefit": "Gives you real cloud resources to deploy apps, databases, and services for coursework and side projects.",
         "verification": "Requires proof of student status (typically via academic email).",
         "link": "https://azure.microsoft.com/en-us/free/students",
-        "cost": "Discount/Credit"
+        "cost": "Credit"
       },
       {
         "name": "AWS Educate",
@@ -79,7 +79,7 @@
         "benefit": "Lets you run small services, APIs, and ML workloads continuously at no cost.",
         "verification": "Requires a Google account; some free-tier usage may still ask for a card for identity verification.",
         "link": "https://cloud.google.com/free",
-        "cost": "Free"
+        "cost": "Credit"
       },
       {
         "name": "Oracle Cloud Free Tier",
@@ -109,7 +109,7 @@
         "benefit": "Lets you integrate state-of-the-art AI into projects and experiments without extra cost.",
         "verification": "Requires a Google account and acceptance of API or product terms.",
         "link": "https://gemini.google.com/access",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Kaggle",
@@ -125,7 +125,7 @@
         "benefit": "Lets you run Python notebooks with GPUs directly in the browser.",
         "verification": "Requires a Google account; free tier is open to all.",
         "link": "https://colab.research.google.com/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "AWS SageMaker Studio Lab",
@@ -141,7 +141,7 @@
         "benefit": "Central place to find, host, and experiment with pre-trained models and datasets.",
         "verification": "Requires a Hugging Face account; most community resources are free to browse and use within limits.",
         "link": "https://huggingface.co/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Weights & Biases",
@@ -149,7 +149,7 @@
         "benefit": "Helps you log metrics, compare runs, and manage experiments professionally.",
         "verification": "Free tier available; educational or research upgrades may require additional details.",
         "link": "https://wandb.ai/site",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -163,7 +163,7 @@
         "benefit": "Lets you run real MongoDB clusters in the cloud without managing servers.",
         "verification": "Student-specific offers may require GitHub Education or school email; base free tier is general.",
         "link": "https://education.github.com/pack?sort=popularity&tag=Databases",
-        "cost": "Discount/Credit"
+        "cost": "Credit"
       },
       {
         "name": "Firebase",
@@ -171,7 +171,7 @@
         "benefit": "Gives you a full backend stack (auth, DB, hosting) for web and mobile apps.",
         "verification": "Requires a Google account; generous free tier available without student-specific proof.",
         "link": "https://firebase.google.com/pricing",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "AWS DynamoDB",
@@ -187,7 +187,7 @@
         "benefit": "Great for storing static sites, assets, and data archives.",
         "verification": "Requires an AWS account; free tier has usage limits.",
         "link": "https://aws.amazon.com/s3/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Azure Cosmos DB Free Tier",
@@ -203,7 +203,7 @@
         "benefit": "Provides managed database instances that handle tuning and maintenance.",
         "verification": "Requires an Oracle Cloud account; free tier has resource limits.",
         "link": "https://www.oracle.com/autonomous-database/free/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -217,7 +217,7 @@
         "benefit": "Helps you catch and debug errors in real time in your apps.",
         "verification": "Free tier available; education programs may require additional details.",
         "link": "https://sentry.io/for/education/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Heroku (GitHub Pack Version)",
@@ -225,7 +225,7 @@
         "benefit": "Push code and get a live app without managing infrastructure.",
         "verification": "Student benefits are tied to GitHub Student Developer Pack eligibility.",
         "link": "https://www.heroku.com/students/",
-        "cost": "Discount/Credit"
+        "cost": "Credit"
       },
       {
         "name": "GitHub Actions",
@@ -233,7 +233,7 @@
         "benefit": "Lets you run tests, builds, and deployments automatically on every push or PR.",
         "verification": "Included with GitHub accounts; usage is limited by free-tier runner minutes.",
         "link": "https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -247,7 +247,7 @@
         "benefit": "Lets you validate skills with recognized certifications.",
         "verification": "Typically requires linking to a student account or school email.",
         "link": "https://learn.microsoft.com/en-us/certifications/student-hub",
-        "cost": "Discount/Credit"
+        "cost": "Discount"
       },
       {
         "name": "JetBrains Academy / Hyperskill",
@@ -255,7 +255,7 @@
         "benefit": "Helps you learn by building guided, real-world style projects.",
         "verification": "Student discounts may require academic email or proof; some content is free.",
         "link": "https://hyperskill.org/",
-        "cost": "Discount/Credit"
+        "cost": "Discount"
       },
       {
         "name": "IBM SkillsBuild",
@@ -263,7 +263,7 @@
         "benefit": "Provides structured learning paths with badges and practical labs.",
         "verification": "Requires registration; some programs may partner with institutions.",
         "link": "https://skillsbuild.org/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "DataCamp",
@@ -271,7 +271,7 @@
         "benefit": "Gives you access to interactive courses in data and analytics.",
         "verification": "Student discounts typically require an academic email or proof.",
         "link": "https://www.datacamp.com/pricing/students",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Coursera for Campus",
@@ -279,7 +279,7 @@
         "benefit": "Allows you to take university and industry courses via your school.",
         "verification": "Requires your institution to be enrolled; access is via school login.",
         "link": "https://www.coursera.org/campus",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -293,7 +293,7 @@
         "benefit": "Lets you design slides, posters, and social graphics with pro templates.",
         "verification": "Requires school domain or verification through an education program.",
         "link": "https://www.canva.com/education/students/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Figma Professional",
@@ -301,7 +301,7 @@
         "benefit": "Gives you full Figma features for UI/UX design and collaboration.",
         "verification": "Requires application with academic email or proof.",
         "link": "https://www.figma.com/education/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Adobe Creative Cloud",
@@ -309,7 +309,7 @@
         "benefit": "Access to Photoshop, Illustrator, Premiere, and more at reduced pricing.",
         "verification": "Requires proof of enrollment (usually via student email or documentation).",
         "link": "https://www.adobe.com/creativecloud/buy/students.html",
-        "cost": "Discount/Credit"
+        "cost": "Discount"
       },
       {
         "name": "Autodesk Tools",
@@ -317,15 +317,15 @@
         "benefit": "Gives you access to industry CAD and 3D tools used in engineering and media.",
         "verification": "Requires Autodesk Education account and proof of academic status.",
         "link": "https://www.autodesk.com/education/edu-software/overview",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Unity Student Plan",
         "short_desc": "Game development engine with student benefits.",
         "benefit": "Provides access to Unity tools and learning resources tailored to students.",
-        "verification": "Requires student status verification through Unity’s education portal.",
+        "verification": "Requires student status verification through Unity's education portal.",
         "link": "https://unity.com/products/unity-student",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -339,7 +339,7 @@
         "benefit": "Lets you practice offensive and defensive security in guided environments.",
         "verification": "Base tier is free; student discounts or team access may require verification.",
         "link": "https://tryhackme.com/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Hack The Box Academy",
@@ -347,7 +347,7 @@
         "benefit": "Provides structured learning paths with real-world style labs.",
         "verification": "Requires an HTB account; some student offerings may need proof.",
         "link": "https://academy.hackthebox.com/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Splunk for Students",
@@ -355,7 +355,7 @@
         "benefit": "Teaches you how to use SIEM/log analytics platforms used in SOCs.",
         "verification": "Typically part of Splunk education/Work+ programs; may need school details.",
         "link": "https://workplus.splunk.com/programs/splunkworkplusforstudents/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Palo Alto CyberAces",
@@ -363,7 +363,7 @@
         "benefit": "Offers foundational cybersecurity theory and practice content.",
         "verification": "Free to register; no strict student-only requirement in most cases.",
         "link": "https://www.cyberaces.org/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   },
@@ -377,7 +377,7 @@
         "benefit": "Gives you core productivity tools needed for coursework and collaboration.",
         "verification": "Requires eligible school email; availability depends on institution.",
         "link": "https://www.microsoft.com/en-us/education/products/office",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Notion (Education Plan)",
@@ -385,7 +385,7 @@
         "benefit": "Centralizes planning, notes, and docs into a single workspace.",
         "verification": "Education plan generally requires academic email sign-up.",
         "link": "https://www.notion.so/product/notion-for-education",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Overleaf",
@@ -393,7 +393,7 @@
         "benefit": "Makes writing LaTeX documents easier with real-time collaboration.",
         "verification": "Free tier is open to all; institutional features may require campus agreements.",
         "link": "https://www.overleaf.com/edu",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       },
       {
         "name": "Zotero",
@@ -401,7 +401,7 @@
         "benefit": "Helps you organize sources and generate citations/bibliographies.",
         "verification": "Free to use; no specific student verification required.",
         "link": "https://www.zotero.org/",
-        "cost": "Discount/Credit"
+        "cost": "Free"
       }
     ]
   }
