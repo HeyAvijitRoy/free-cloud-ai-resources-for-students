@@ -73,25 +73,25 @@ This list powers the live student tools page on:
   * **Short Description:** Access a massive bundle of developer tools, cloud credits, IDEs, and more for free.
   * **Benefit:** Unlocks an entire ecosystem of premium dev tools and services with a single student verification.
   * **Verification:** Requires GitHub Education student verification (typically a school email or proof of enrollment).
-  * **Link:** https://education.github.com/pack
+  * **Link:** https://education.github.com/students
 
 * Google Antigravity  
   * **Short Description:** Google’s AI-first IDE for modern development workflows.
   * **Benefit:** Lets you experiment with AI-assisted coding and modern cloud-native workflows without extra cost.
   * **Verification:** Generally available with a Google account; check the page for any region or access limitations.
-  * **Link:** https://ai.google.dev/antigravity
+  * **Link:** https://antigravity.google/
 
 * Visual Studio Community Edition  
   * **Short Description:** Free full-featured IDE for .NET, C++, and cross-platform development.
   * **Benefit:** Gives you the same IDE used in industry for building professional Windows and .NET applications.
   * **Verification:** Free for individual developers, students, and certain organizations; no special student proof typically required.
-  * **Link:** https://visualstudio.microsoft.com/vs/community/
+  * **Link:** https://visualstudio.microsoft.com/free-developer-offers/
 
 * JetBrains Student License  
   * **Short Description:** Free access to all JetBrains IDEs (PyCharm, IntelliJ, WebStorm, CLion, etc.).
   * **Benefit:** Unlocks pro-level IDEs for almost every major language and platform while you’re a student.
   * **Verification:** Requires a verified student status (usually student email or ISIC/other proof).
-  * **Link:** https://www.jetbrains.com/community/education/#students
+  * **Link:** https://www.jetbrains.com/academy/student-pack/#students
 
 * Replit for Students  
   * **Short Description:** Browser-based development + hosting with student-friendly upgrades.
@@ -119,7 +119,7 @@ This list powers the live student tools page on:
   * **Short Description:** Credits + sandbox environments for learning AWS cloud.
   * **Benefit:** Provides AWS credits and training environments to practice cloud skills.
   * **Verification:** Requires student registration with school details; eligibility varies by region and institution.
-  * **Link:** https://aws.amazon.com/education/awseducate/
+  * **Link:** https://aws.amazon.com/education/
 
 * Google Cloud Free Tier  
   * **Short Description:** Always-free compute, serverless hosting, and ML APIs.
@@ -147,13 +147,13 @@ This list powers the live student tools page on:
   * **Short Description:** Advanced AI model for free — text, code, embedding & more.
   * **Benefit:** Lets you integrate state-of-the-art AI into projects and experiments without extra cost.
   * **Verification:** Requires a Google account and acceptance of API or product terms.
-  * **Link:** https://ai.google.dev/
+  * **Link:** https://gemini.google.com/access
 
 * Kaggle  
   * **Short Description:** Free GPU & TPU notebooks for ML experiments.
   * **Benefit:** Provides hosted Jupyter-like notebooks with free accelerators for training and experimenting.
   * **Verification:** Requires a Kaggle account; no formal student verification for free usage.
-  * **Link:** https://www.kaggle.com/
+  * **Link:** https://www.kaggle.com/notebooks
 
 * Google Colab  
   * **Short Description:** Free cloud notebook environment with GPU access.
@@ -165,7 +165,7 @@ This list powers the live student tools page on:
   * **Short Description:** Free T4 GPU for training ML models.
   * **Benefit:** Offers a managed environment with free GPU time for ML workloads.
   * **Verification:** Requires sign-up and approval; usage is time-limited and subject to AWS policies.
-  * **Link:** https://studiolab.sagemaker.aws/
+  * **Link:** https://aws.amazon.com/sagemaker/studio-lab/
 
 * Hugging Face  
   * **Short Description:** Models, datasets, Spaces, and inference endpoints.
@@ -187,13 +187,13 @@ This list powers the live student tools page on:
   * **Short Description:** Fully-managed cloud NoSQL database with student credit.
   * **Benefit:** Lets you run real MongoDB clusters in the cloud without managing servers.
   * **Verification:** Student-specific offers may require GitHub Education or school email; base free tier is general.
-  * **Link:** https://www.mongodb.com/students
+  * **Link:** https://education.github.com/pack?sort=popularity&tag=Databases
 
 * Firebase  
   * **Short Description:** Authentication, hosting, realtime DB, and serverless functions.
   * **Benefit:** Gives you a full backend stack (auth, DB, hosting) for web and mobile apps.
   * **Verification:** Requires a Google account; generous free tier available without student-specific proof.
-  * **Link:** https://firebase.google.com/
+  * **Link:** https://firebase.google.com/pricing
 
 * AWS DynamoDB  
   * **Short Description:** NoSQL database with an always-free usage tier.
@@ -233,13 +233,13 @@ This list powers the live student tools page on:
   * **Short Description:** Simple app deployment for students.
   * **Benefit:** Push code and get a live app without managing infrastructure.
   * **Verification:** Student benefits are tied to GitHub Student Developer Pack eligibility.
-  * **Link:** https://www.heroku.com/github-students
+  * **Link:** https://www.heroku.com/students/
 
 * GitHub Actions  
   * **Short Description:** CI/CD automation built directly into GitHub.
   * **Benefit:** Lets you run tests, builds, and deployments automatically on every push or PR.
   * **Verification:** Included with GitHub accounts; usage is limited by free-tier runner minutes.
-  * **Link:** https://github.com/features/actions
+  * **Link:** https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions
 
 ---
 

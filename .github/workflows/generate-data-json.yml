@@ -1,0 +1,42 @@
+name: Generate data.json from README
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "README.md"
+      - ".github/scripts/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate data.json
+        run: python .github/scripts/parse_readme_to_json.py
+
+      - name: Commit and push data.json (if changed)
+        run: |
+          if [[ -n "$(git status --porcelain data.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data.json
+            git commit -m "chore: update data.json from README [skip ci]"
+            git push
+          else
+            echo "No changes to data.json"
+          fi
