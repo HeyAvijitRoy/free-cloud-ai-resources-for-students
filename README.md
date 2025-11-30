@@ -47,7 +47,7 @@ This list powers the live student tools page on:
 
 ---
 
-# 🧭 Sidebar Navigation
+# 🧭 Navigation
 
 > Click to jump directly to any section:
 
@@ -67,6 +67,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="developer-tools"></a>
 # 🚀 Developer Tools
 
 * GitHub Student Developer Pack  
@@ -113,6 +114,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="cloud-platforms--compute-credits"></a>
 # ☁️ Cloud Platforms & Compute Credits
 
 * Azure for Students  
@@ -152,6 +154,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="aiml-tools--free-gpu-access"></a>
 # 🧠 AI/ML Tools & Free GPU Access
 
 * Google Gemini Pro AI  
@@ -198,6 +201,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="databases--storage"></a>
 # 🗄️ Databases & Storage
 
 * MongoDB Atlas (Student Credit)  
@@ -244,6 +248,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="devops-monitoring--deployment"></a>
 # 🔧 DevOps Monitoring & Deployment
 
 * Sentry  
@@ -269,6 +274,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="learning-platforms--certifications"></a>
 # 📚 Learning Platforms & Certifications
 
 * Microsoft Certifications for Students  
@@ -308,6 +314,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="design--creative-tools"></a>
 # 🎨 Design / Creative Tools
 
 * Canva Pro for Students  
@@ -347,6 +354,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="cybersecurity-tools"></a>
 # 🔐 Cybersecurity Tools
 
 * TryHackMe  
@@ -379,6 +387,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="productivity--research-tools"></a>
 # 🧰 Productivity & Research Tools
 
 * Microsoft 365 (with School Account)  
@@ -411,6 +420,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="best-strategy-for-students"></a>
 # 🏁 Best Strategy for Students
 
 1. Start with **GitHub Education Pack**  
@@ -425,6 +435,7 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="contributing"></a>
 # 🤝 Contributing
 
 This project is community-powered.  
@@ -438,6 +449,7 @@ If you know about **any free student tools, cloud credits, or high-value resourc
      * **Short Description:** ...
      * **Benefit:** ...
      * **Verification:** ...
+     * **Cost:** Free / Credit / Discount
      * **Link:** ...
 
 3. Submit a **Pull Request**  
@@ -455,6 +467,7 @@ If you know about **any free student tools, cloud credits, or high-value resourc
 
 ---
 
+<a id="credits"></a>
 # 🙌 Credits
 
 ### **Maintainer**
@@ -467,6 +480,7 @@ If you know about **any free student tools, cloud credits, or high-value resourc
 
 ---
 
+<a id="license"></a>
 # 📄 License
 
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
