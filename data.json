@@ -1,0 +1,408 @@
+{
+  "dev-tools": {
+    "title": "🚀 Developer Tools",
+    "description": "",
+    "tools": [
+      {
+        "name": "GitHub Student Developer Pack",
+        "short_desc": "Access a massive bundle of developer tools, cloud credits, IDEs, and more for free.",
+        "benefit": "Unlocks an entire ecosystem of premium dev tools and services with a single student verification.",
+        "verification": "Requires GitHub Education student verification (typically a school email or proof of enrollment).",
+        "link": "https://education.github.com/students",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Google Antigravity",
+        "short_desc": "Google’s AI-first IDE for modern development workflows.",
+        "benefit": "Lets you experiment with AI-assisted coding and modern cloud-native workflows without extra cost.",
+        "verification": "Generally available with a Google account; check the page for any region or access limitations.",
+        "link": "https://antigravity.google/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Visual Studio Community Edition",
+        "short_desc": "Free full-featured IDE for .NET, C++, and cross-platform development.",
+        "benefit": "Gives you the same IDE used in industry for building professional Windows and .NET applications.",
+        "verification": "Free for individual developers, students, and certain organizations; no special student proof typically required.",
+        "link": "https://visualstudio.microsoft.com/free-developer-offers/",
+        "cost": "Free"
+      },
+      {
+        "name": "JetBrains Student License",
+        "short_desc": "Free access to all JetBrains IDEs (PyCharm, IntelliJ, WebStorm, CLion, etc.).",
+        "benefit": "Unlocks pro-level IDEs for almost every major language and platform while you’re a student.",
+        "verification": "Requires a verified student status (usually student email or ISIC/other proof).",
+        "link": "https://www.jetbrains.com/academy/student-pack/#students",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Replit for Students",
+        "short_desc": "Browser-based development + hosting with student-friendly upgrades.",
+        "benefit": "Lets you code, collaborate, and deploy from the browser without needing a local setup.",
+        "verification": "Some education-specific benefits may require school domain or classroom setup; base tier is free.",
+        "link": "https://replit.com/education",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "GitKraken Student Pack",
+        "short_desc": "Premium Git client and workflow tooling for students.",
+        "benefit": "Helps you visualize Git history and manage repos more easily during coursework and projects.",
+        "verification": "Usually tied to GitHub Student Developer Pack or student email verification.",
+        "link": "https://www.gitkraken.com/github-student-developer-pack",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "cloud": {
+    "title": "☁️ Cloud Platforms & Compute Credits",
+    "description": "",
+    "tools": [
+      {
+        "name": "Azure for Students",
+        "short_desc": "$100 credit, free App Services, VMs — no credit card required.",
+        "benefit": "Gives you real cloud resources to deploy apps, databases, and services for coursework and side projects.",
+        "verification": "Requires proof of student status (typically via academic email).",
+        "link": "https://azure.microsoft.com/en-us/free/students",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "AWS Educate",
+        "short_desc": "Credits + sandbox environments for learning AWS cloud.",
+        "benefit": "Provides AWS credits and training environments to practice cloud skills.",
+        "verification": "Requires student registration with school details; eligibility varies by region and institution.",
+        "link": "https://aws.amazon.com/education/",
+        "cost": "Credit"
+      },
+      {
+        "name": "Google Cloud Free Tier",
+        "short_desc": "Always-free compute, serverless hosting, and ML APIs.",
+        "benefit": "Lets you run small services, APIs, and ML workloads continuously at no cost.",
+        "verification": "Requires a Google account; some free-tier usage may still ask for a card for identity verification.",
+        "link": "https://cloud.google.com/free",
+        "cost": "Free"
+      },
+      {
+        "name": "Oracle Cloud Free Tier",
+        "short_desc": "Always-free ARM VMs, databases, object storage, etc.",
+        "benefit": "Provides persistent VMs and managed databases suitable for learning Linux, databases, and cloud.",
+        "verification": "Requires creating an Oracle Cloud account; identity verification may vary by region.",
+        "link": "https://www.oracle.com/cloud/free/",
+        "cost": "Free"
+      },
+      {
+        "name": "DigitalOcean Credits (via GitHub Pack)",
+        "short_desc": "Deploy apps, containers, and databases easily.",
+        "benefit": "Use cloud credits to spin up real servers and services for your apps.",
+        "verification": "Tied to GitHub Student Developer Pack eligibility.",
+        "link": "https://www.digitalocean.com/github-students",
+        "cost": "Credit"
+      }
+    ]
+  },
+  "ai-ml": {
+    "title": "🧠 AI/ML Tools & Free GPU Access",
+    "description": "",
+    "tools": [
+      {
+        "name": "Google Gemini Pro AI",
+        "short_desc": "Advanced AI model for free — text, code, embedding & more.",
+        "benefit": "Lets you integrate state-of-the-art AI into projects and experiments without extra cost.",
+        "verification": "Requires a Google account and acceptance of API or product terms.",
+        "link": "https://gemini.google.com/access",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Kaggle",
+        "short_desc": "Free GPU & TPU notebooks for ML experiments.",
+        "benefit": "Provides hosted Jupyter-like notebooks with free accelerators for training and experimenting.",
+        "verification": "Requires a Kaggle account; no formal student verification for free usage.",
+        "link": "https://www.kaggle.com/notebooks",
+        "cost": "Free"
+      },
+      {
+        "name": "Google Colab",
+        "short_desc": "Free cloud notebook environment with GPU access.",
+        "benefit": "Lets you run Python notebooks with GPUs directly in the browser.",
+        "verification": "Requires a Google account; free tier is open to all.",
+        "link": "https://colab.research.google.com/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "AWS SageMaker Studio Lab",
+        "short_desc": "Free T4 GPU for training ML models.",
+        "benefit": "Offers a managed environment with free GPU time for ML workloads.",
+        "verification": "Requires sign-up and approval; usage is time-limited and subject to AWS policies.",
+        "link": "https://aws.amazon.com/sagemaker/studio-lab/",
+        "cost": "Free"
+      },
+      {
+        "name": "Hugging Face",
+        "short_desc": "Models, datasets, Spaces, and inference endpoints.",
+        "benefit": "Central place to find, host, and experiment with pre-trained models and datasets.",
+        "verification": "Requires a Hugging Face account; most community resources are free to browse and use within limits.",
+        "link": "https://huggingface.co/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Weights & Biases",
+        "short_desc": "Experiment tracking and model performance visualization.",
+        "benefit": "Helps you log metrics, compare runs, and manage experiments professionally.",
+        "verification": "Free tier available; educational or research upgrades may require additional details.",
+        "link": "https://wandb.ai/site",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "databases": {
+    "title": "🗄️ Databases & Storage",
+    "description": "",
+    "tools": [
+      {
+        "name": "MongoDB Atlas (Student Credit)",
+        "short_desc": "Fully-managed cloud NoSQL database with student credit.",
+        "benefit": "Lets you run real MongoDB clusters in the cloud without managing servers.",
+        "verification": "Student-specific offers may require GitHub Education or school email; base free tier is general.",
+        "link": "https://education.github.com/pack?sort=popularity&tag=Databases",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Firebase",
+        "short_desc": "Authentication, hosting, realtime DB, and serverless functions.",
+        "benefit": "Gives you a full backend stack (auth, DB, hosting) for web and mobile apps.",
+        "verification": "Requires a Google account; generous free tier available without student-specific proof.",
+        "link": "https://firebase.google.com/pricing",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "AWS DynamoDB",
+        "short_desc": "NoSQL database with an always-free usage tier.",
+        "benefit": "Lets you use a production-grade NoSQL store within free-tier limits.",
+        "verification": "Requires an AWS account; free-tier usage is time and volume limited.",
+        "link": "https://aws.amazon.com/dynamodb/",
+        "cost": "Free"
+      },
+      {
+        "name": "AWS S3",
+        "short_desc": "Object storage with Free Tier for hosting/static apps.",
+        "benefit": "Great for storing static sites, assets, and data archives.",
+        "verification": "Requires an AWS account; free tier has usage limits.",
+        "link": "https://aws.amazon.com/s3/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Azure Cosmos DB Free Tier",
+        "short_desc": "Global distributed database with a generous free tier.",
+        "benefit": "Lets you experiment with globally replicated NoSQL databases.",
+        "verification": "Requires an Azure account; free tier is capacity-limited.",
+        "link": "https://azure.microsoft.com/en-us/products/cosmos-db",
+        "cost": "Free"
+      },
+      {
+        "name": "Oracle Autonomous Database",
+        "short_desc": "Always-free self-driving database.",
+        "benefit": "Provides managed database instances that handle tuning and maintenance.",
+        "verification": "Requires an Oracle Cloud account; free tier has resource limits.",
+        "link": "https://www.oracle.com/autonomous-database/free/",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "devops": {
+    "title": "🔧 DevOps Monitoring & Deployment",
+    "description": "",
+    "tools": [
+      {
+        "name": "Sentry",
+        "short_desc": "Error monitoring and performance tracking for applications.",
+        "benefit": "Helps you catch and debug errors in real time in your apps.",
+        "verification": "Free tier available; education programs may require additional details.",
+        "link": "https://sentry.io/for/education/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Heroku (GitHub Pack Version)",
+        "short_desc": "Simple app deployment for students.",
+        "benefit": "Push code and get a live app without managing infrastructure.",
+        "verification": "Student benefits are tied to GitHub Student Developer Pack eligibility.",
+        "link": "https://www.heroku.com/students/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "GitHub Actions",
+        "short_desc": "CI/CD automation built directly into GitHub.",
+        "benefit": "Lets you run tests, builds, and deployments automatically on every push or PR.",
+        "verification": "Included with GitHub accounts; usage is limited by free-tier runner minutes.",
+        "link": "https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "learning-cert": {
+    "title": "📚 Learning Platforms & Certifications",
+    "description": "",
+    "tools": [
+      {
+        "name": "Microsoft Certifications for Students",
+        "short_desc": "Free/discounted opportunities to earn industry credentials.",
+        "benefit": "Lets you validate skills with recognized certifications.",
+        "verification": "Typically requires linking to a student account or school email.",
+        "link": "https://learn.microsoft.com/en-us/certifications/student-hub",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "JetBrains Academy / Hyperskill",
+        "short_desc": "Project-based interactive learning with student pricing.",
+        "benefit": "Helps you learn by building guided, real-world style projects.",
+        "verification": "Student discounts may require academic email or proof; some content is free.",
+        "link": "https://hyperskill.org/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "IBM SkillsBuild",
+        "short_desc": "Free cybersecurity, cloud, and data science courses.",
+        "benefit": "Provides structured learning paths with badges and practical labs.",
+        "verification": "Requires registration; some programs may partner with institutions.",
+        "link": "https://skillsbuild.org/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "DataCamp",
+        "short_desc": "Student-discount access to Python, data science, and ML courses.",
+        "benefit": "Gives you access to interactive courses in data and analytics.",
+        "verification": "Student discounts typically require an academic email or proof.",
+        "link": "https://www.datacamp.com/pricing/students",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Coursera for Campus",
+        "short_desc": "Free access if your institution participates.",
+        "benefit": "Allows you to take university and industry courses via your school.",
+        "verification": "Requires your institution to be enrolled; access is via school login.",
+        "link": "https://www.coursera.org/campus",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "design": {
+    "title": "🎨 Design / Creative Tools",
+    "description": "",
+    "tools": [
+      {
+        "name": "Canva Pro for Students",
+        "short_desc": "Presentation & design tool with premium student access.",
+        "benefit": "Lets you design slides, posters, and social graphics with pro templates.",
+        "verification": "Requires school domain or verification through an education program.",
+        "link": "https://www.canva.com/education/students/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Figma Professional",
+        "short_desc": "Free Pro plan for students and educators.",
+        "benefit": "Gives you full Figma features for UI/UX design and collaboration.",
+        "verification": "Requires application with academic email or proof.",
+        "link": "https://www.figma.com/education/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "short_desc": "Full suite at a discounted student rate.",
+        "benefit": "Access to Photoshop, Illustrator, Premiere, and more at reduced pricing.",
+        "verification": "Requires proof of enrollment (usually via student email or documentation).",
+        "link": "https://www.adobe.com/creativecloud/buy/students.html",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Autodesk Tools",
+        "short_desc": "Free AutoCAD, Maya, and more.",
+        "benefit": "Gives you access to industry CAD and 3D tools used in engineering and media.",
+        "verification": "Requires Autodesk Education account and proof of academic status.",
+        "link": "https://www.autodesk.com/education/edu-software/overview",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Unity Student Plan",
+        "short_desc": "Game development engine with student benefits.",
+        "benefit": "Provides access to Unity tools and learning resources tailored to students.",
+        "verification": "Requires student status verification through Unity’s education portal.",
+        "link": "https://unity.com/products/unity-student",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "cybersecurity": {
+    "title": "🔐 Cybersecurity Tools",
+    "description": "",
+    "tools": [
+      {
+        "name": "TryHackMe",
+        "short_desc": "Hands-on cybersecurity labs with student paths.",
+        "benefit": "Lets you practice offensive and defensive security in guided environments.",
+        "verification": "Base tier is free; student discounts or team access may require verification.",
+        "link": "https://tryhackme.com/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Hack The Box Academy",
+        "short_desc": "Free foundational cybersecurity content + discounts.",
+        "benefit": "Provides structured learning paths with real-world style labs.",
+        "verification": "Requires an HTB account; some student offerings may need proof.",
+        "link": "https://academy.hackthebox.com/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Splunk for Students",
+        "short_desc": "Free access to Splunk fundamentals.",
+        "benefit": "Teaches you how to use SIEM/log analytics platforms used in SOCs.",
+        "verification": "Typically part of Splunk education/Work+ programs; may need school details.",
+        "link": "https://workplus.splunk.com/programs/splunkworkplusforstudents/",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Palo Alto CyberAces",
+        "short_desc": "Free cybersecurity learning program.",
+        "benefit": "Offers foundational cybersecurity theory and practice content.",
+        "verification": "Free to register; no strict student-only requirement in most cases.",
+        "link": "https://www.cyberaces.org/",
+        "cost": "Discount/Credit"
+      }
+    ]
+  },
+  "productivity": {
+    "title": "🧰 Productivity & Research Tools",
+    "description": "",
+    "tools": [
+      {
+        "name": "Microsoft 365 (with School Account)",
+        "short_desc": "Word, Excel, PowerPoint, Teams — free for most universities.",
+        "benefit": "Gives you core productivity tools needed for coursework and collaboration.",
+        "verification": "Requires eligible school email; availability depends on institution.",
+        "link": "https://www.microsoft.com/en-us/education/products/office",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Notion (Education Plan)",
+        "short_desc": "Notes, projects, documentation — free for students.",
+        "benefit": "Centralizes planning, notes, and docs into a single workspace.",
+        "verification": "Education plan generally requires academic email sign-up.",
+        "link": "https://www.notion.so/product/notion-for-education",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Overleaf",
+        "short_desc": "Collaborative LaTeX editor for papers & reports.",
+        "benefit": "Makes writing LaTeX documents easier with real-time collaboration.",
+        "verification": "Free tier is open to all; institutional features may require campus agreements.",
+        "link": "https://www.overleaf.com/edu",
+        "cost": "Discount/Credit"
+      },
+      {
+        "name": "Zotero",
+        "short_desc": "Powerful citation & reference manager.",
+        "benefit": "Helps you organize sources and generate citations/bibliographies.",
+        "verification": "Free to use; no specific student verification required.",
+        "link": "https://www.zotero.org/",
+        "cost": "Discount/Credit"
+      }
+    ]
+  }
+}
