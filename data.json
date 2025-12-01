@@ -53,20 +53,6 @@
       }
     ]
   },
-  "test-tools": {
-    "title": "🚀 Test Tools",
-    "description": "",
-    "tools": [
-      {
-        "name": "Test Developer Pack",
-        "short_desc": "Access a massive bundle of developer tools, cloud credits, IDEs, and more for free.",
-        "benefit": "Unlocks an entire ecosystem of premium dev tools and services with a single student verification.",
-        "verification": "Requires GitHub Education student verification (typically a school email or proof of enrollment).",
-        "link": "https://education.github.com/students",
-        "cost": "Free"
-      }
-    ]
-  },
   "cloud-platforms-compute-credits": {
     "title": "☁️ Cloud Platforms & Compute Credits",
     "description": "",
