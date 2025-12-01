@@ -31,7 +31,7 @@
         "name": "JetBrains Student License",
         "short_desc": "Free access to all JetBrains IDEs (PyCharm, IntelliJ, WebStorm, CLion, etc.).",
         "benefit": "Unlocks pro-level IDEs for almost every major language and platform while you're a student.",
-        "verification": "Requires a verified student status (usually student email or ISIC/other proof).",
+        "verification": "Requires student verification via school email, ISIC card, or other academic proof through JetBrains Account.",
         "link": "https://www.jetbrains.com/academy/student-pack/#students",
         "cost": "Free"
       },
@@ -62,23 +62,23 @@
         "short_desc": "$100 credit, free App Services, VMs — no credit card required.",
         "benefit": "Gives you real cloud resources to deploy apps, databases, and services for coursework and side projects.",
         "verification": "Requires proof of student status (typically via academic email).",
-        "link": "https://azure.microsoft.com/en-us/free/students",
+        "link": "https://azure.microsoft.com/en-us/free/students/",
         "cost": "Credit"
       },
       {
-        "name": "AWS Educate",
-        "short_desc": "Credits + sandbox environments for learning AWS cloud.",
-        "benefit": "Provides AWS credits and training environments to practice cloud skills.",
-        "verification": "Requires student registration with school details; eligibility varies by region and institution.",
-        "link": "https://aws.amazon.com/education/",
-        "cost": "Credit"
+        "name": "AWS Educate (Cloud Credits + Sandbox Environments)",
+        "short_desc": "Free introductory cloud labs, training, and sandbox environments for beginners.",
+        "benefit": "Gives you hands-on AWS practice with guided labs, sandboxed consoles, and starter credits—no credit card required.",
+        "verification": "Requires creating an AWS Educate account; school email is recommended but not required. Eligibility varies by age and region.",
+        "link": "https://aws.amazon.com/education/awseducate/",
+        "cost": "Free"
       },
       {
         "name": "Google Cloud Free Tier",
         "short_desc": "Always-free compute, serverless hosting, and ML APIs.",
         "benefit": "Lets you run small services, APIs, and ML workloads continuously at no cost.",
         "verification": "Requires a Google account; some free-tier usage may still ask for a card for identity verification.",
-        "link": "https://cloud.google.com/free",
+        "link": "https://cloud.google.com/free/",
         "cost": "Credit"
       },
       {
@@ -94,7 +94,7 @@
         "short_desc": "Deploy apps, containers, and databases easily.",
         "benefit": "Use cloud credits to spin up real servers and services for your apps.",
         "verification": "Tied to GitHub Student Developer Pack eligibility.",
-        "link": "https://www.digitalocean.com/github-students",
+        "link": "https://www.digitalocean.com/github-students/",
         "cost": "Credit"
       }
     ]
@@ -104,19 +104,35 @@
     "description": "",
     "tools": [
       {
-        "name": "Google Gemini Pro AI",
+        "name": "Google AI (Gemini Pro / Google AI Studio)",
         "short_desc": "Advanced AI model for free — text, code, embedding & more.",
-        "benefit": "Lets you integrate state-of-the-art AI into projects and experiments without extra cost.",
-        "verification": "Requires a Google account and acceptance of API or product terms.",
-        "link": "https://gemini.google.com/access",
+        "benefit": "Lets you integrate state-of-the-art AI into projects and experiments without extra cost. This includes Google's most accurate model, Gemini 3 Pro, along with NotebookLM, 2TB of storage, and Gemini in Google Apps.",
+        "verification": "Must be 18+ and enrolled at a qualifying higher-education institution in a supported region; must use a personal Google account; verification completed via SheerID using student ID or enrollment proof; a valid payment method may be required during activation (first year free for eligible students).",
+        "link": "https://gemini.google/students/",
         "cost": "Free"
+      },
+      {
+        "name": "Anthropic (Claude) Student Builder Program",
+        "short_desc": "Program offering free API credits for college students to build with Claude models.",
+        "benefit": "Provides students with funding in the form of API credits to integrate state-of-the-art Claude AI into academic projects and experiments.",
+        "verification": "Requires an application including university affiliation, expected graduation date, and a project description. An existing offer also grants $5 in API credits after phone verification.",
+        "link": "https://www.claude.com/programs/campus/",
+        "cost": "Credit"
+      },
+      {
+        "name": "OpenAI Researcher Access Program",
+        "short_desc": "Subsidized API access for researchers studying responsible AI deployment, risk mitigation, and societal impacts.",
+        "benefit": "Researchers can apply for up to $1,000 of subsidized OpenAI API credits to support their work.",
+        "verification": "Requires an active affiliation to an academic institution or research organization. Applications are reviewed every 3 months (March, June, September, and December).",
+        "link": "https://openai.com/form/researcher-access-program/",
+        "cost": "Credit"
       },
       {
         "name": "Kaggle",
         "short_desc": "Free GPU & TPU notebooks for ML experiments.",
         "benefit": "Provides hosted Jupyter-like notebooks with free accelerators for training and experimenting.",
         "verification": "Requires a Kaggle account; no formal student verification for free usage.",
-        "link": "https://www.kaggle.com/notebooks",
+        "link": "https://www.kaggle.com/notebooks/",
         "cost": "Free"
       },
       {
@@ -148,7 +164,7 @@
         "short_desc": "Experiment tracking and model performance visualization.",
         "benefit": "Helps you log metrics, compare runs, and manage experiments professionally.",
         "verification": "Free tier available; educational or research upgrades may require additional details.",
-        "link": "https://wandb.ai/site",
+        "link": "https://wandb.ai/site/",
         "cost": "Free"
       }
     ]
@@ -161,8 +177,8 @@
         "name": "MongoDB Atlas (Student Credit)",
         "short_desc": "Fully-managed cloud NoSQL database with student credit.",
         "benefit": "Lets you run real MongoDB clusters in the cloud without managing servers.",
-        "verification": "Student-specific offers may require GitHub Education or school email; base free tier is general.",
-        "link": "https://education.github.com/pack?sort=popularity&tag=Databases",
+        "verification": "Student credit requires GitHub Student verification; base free tier requires only a MongoDB account.",
+        "link": "https://education.github.com/pack/",
         "cost": "Credit"
       },
       {
@@ -170,7 +186,7 @@
         "short_desc": "Authentication, hosting, realtime DB, and serverless functions.",
         "benefit": "Gives you a full backend stack (auth, DB, hosting) for web and mobile apps.",
         "verification": "Requires a Google account; generous free tier available without student-specific proof.",
-        "link": "https://firebase.google.com/pricing",
+        "link": "https://firebase.google.com/pricing/",
         "cost": "Free"
       },
       {
@@ -250,6 +266,14 @@
         "cost": "Discount"
       },
       {
+        "name": "AWS Education Programs (AWS Academy & Student Learning Paths)",
+        "short_desc": "Structured cloud learning resources offered through universities, including instructor-led AWS Academy courses and self-paced student pathways.",
+        "benefit": "Provides official AWS curricula, hands-on labs, and exam-prep materials used in academic programs worldwide. Does not directly provide cloud credits, but prepares you for certifications.",
+        "verification": "Requires your institution to participate in AWS Academy or you must sign up using a school email for student learning paths.",
+        "link": "https://aws.amazon.com/education/",
+        "cost": "Free"
+      },
+      {
         "name": "JetBrains Academy / Hyperskill",
         "short_desc": "Project-based interactive learning with student pricing.",
         "benefit": "Helps you learn by building guided, real-world style projects.",
@@ -278,7 +302,7 @@
         "short_desc": "Free access if your institution participates.",
         "benefit": "Allows you to take university and industry courses via your school.",
         "verification": "Requires your institution to be enrolled; access is via school login.",
-        "link": "https://www.coursera.org/campus",
+        "link": "https://www.coursera.org/campus/",
         "cost": "Free"
       }
     ]
@@ -291,7 +315,7 @@
         "name": "Canva Pro for Students",
         "short_desc": "Presentation & design tool with premium student access.",
         "benefit": "Lets you design slides, posters, and social graphics with pro templates.",
-        "verification": "Requires school domain or verification through an education program.",
+        "verification": "Requires a school-issued email or validation through Canva for Education.",
         "link": "https://www.canva.com/education/students/",
         "cost": "Free"
       },
@@ -337,7 +361,7 @@
         "name": "TryHackMe",
         "short_desc": "Hands-on cybersecurity labs with student paths.",
         "benefit": "Lets you practice offensive and defensive security in guided environments.",
-        "verification": "Base tier is free; student discounts or team access may require verification.",
+        "verification": "Free foundational modules; discounts require proof of academic status.",
         "link": "https://tryhackme.com/",
         "cost": "Free"
       },
@@ -353,7 +377,7 @@
         "name": "Splunk for Students",
         "short_desc": "Free access to Splunk fundamentals.",
         "benefit": "Teaches you how to use SIEM/log analytics platforms used in SOCs.",
-        "verification": "Typically part of Splunk education/Work+ programs; may need school details.",
+        "verification": "Access is provided through SplunkWork+; eligibility may require school or workforce program participation.",
         "link": "https://workplus.splunk.com/programs/splunkworkplusforstudents/",
         "cost": "Free"
       },
@@ -375,7 +399,7 @@
         "name": "Microsoft 365 (with School Account)",
         "short_desc": "Word, Excel, PowerPoint, Teams — free for most universities.",
         "benefit": "Gives you core productivity tools needed for coursework and collaboration.",
-        "verification": "Requires eligible school email; availability depends on institution.",
+        "verification": "Requires school email from an institution subscribed to Microsoft 365 A1/A3/A5.",
         "link": "https://www.microsoft.com/en-us/education/products/office",
         "cost": "Free"
       },
@@ -391,7 +415,7 @@
         "name": "Overleaf",
         "short_desc": "Collaborative LaTeX editor for papers & reports.",
         "benefit": "Makes writing LaTeX documents easier with real-time collaboration.",
-        "verification": "Free tier is open to all; institutional features may require campus agreements.",
+        "verification": "Free tier is open to all; enhanced features require login through an institution participating in Overleaf Commons.",
         "link": "https://www.overleaf.com/edu",
         "cost": "Free"
       },
