@@ -94,7 +94,7 @@ This list powers the live student tools page on:
 * JetBrains Student License  
   * **Short Description:** Free access to all JetBrains IDEs (PyCharm, IntelliJ, WebStorm, CLion, etc.).
   * **Benefit:** Unlocks pro-level IDEs for almost every major language and platform while you're a student.
-  * **Verification:** Requires a verified student status (usually student email or ISIC/other proof).
+  * **Verification:** Requires student verification via school email, ISIC card, or other academic proof through JetBrains Account.
   * **Cost:** Free
   * **Link:** https://www.jetbrains.com/academy/student-pack/#students
 
@@ -122,21 +122,21 @@ This list powers the live student tools page on:
   * **Benefit:** Gives you real cloud resources to deploy apps, databases, and services for coursework and side projects.
   * **Verification:** Requires proof of student status (typically via academic email).
   * **Cost:** Credit
-  * **Link:** https://azure.microsoft.com/en-us/free/students
+  * **Link:** https://azure.microsoft.com/en-us/free/students/
 
-* AWS Educate  
-  * **Short Description:** Credits + sandbox environments for learning AWS cloud.
-  * **Benefit:** Provides AWS credits and training environments to practice cloud skills.
-  * **Verification:** Requires student registration with school details; eligibility varies by region and institution.
-  * **Cost:** Credit
-  * **Link:** https://aws.amazon.com/education/
+* AWS Educate (Cloud Credits + Sandbox Environments)  
+  * **Short Description:** Free introductory cloud labs, training, and sandbox environments for beginners.
+  * **Benefit:** Gives you hands-on AWS practice with guided labs, sandboxed consoles, and starter credits—no credit card required.
+  * **Verification:** Requires creating an AWS Educate account; school email is recommended but not required. Eligibility varies by age and region.
+  * **Cost:** Free
+  * **Link:** https://aws.amazon.com/education/awseducate/
 
 * Google Cloud Free Tier  
   * **Short Description:** Always-free compute, serverless hosting, and ML APIs.
   * **Benefit:** Lets you run small services, APIs, and ML workloads continuously at no cost.
   * **Verification:** Requires a Google account; some free-tier usage may still ask for a card for identity verification.
   * **Cost:** Credit
-  * **Link:** https://cloud.google.com/free
+  * **Link:** https://cloud.google.com/free/
 
 * Oracle Cloud Free Tier  
   * **Short Description:** Always-free ARM VMs, databases, object storage, etc.
@@ -150,26 +150,40 @@ This list powers the live student tools page on:
   * **Benefit:** Use cloud credits to spin up real servers and services for your apps.
   * **Verification:** Tied to GitHub Student Developer Pack eligibility.
   * **Cost:** Credit
-  * **Link:** https://www.digitalocean.com/github-students
+  * **Link:** https://www.digitalocean.com/github-students/
 
 ---
 
 <a id="aiml-tools--free-gpu-access"></a>
 # 🧠 AI/ML Tools & Free GPU Access
 
-* Google Gemini Pro AI  
+* Google AI (Gemini Pro / Google AI Studio)  
   * **Short Description:** Advanced AI model for free — text, code, embedding & more.
-  * **Benefit:** Lets you integrate state-of-the-art AI into projects and experiments without extra cost.
-  * **Verification:** Requires a Google account and acceptance of API or product terms.
+  * **Benefit:** Lets you integrate state-of-the-art AI into projects and experiments without extra cost. This includes Google's most accurate model, Gemini 3 Pro, along with NotebookLM, 2TB of storage, and Gemini in Google Apps.
+  * **Verification:** Must be 18+ and enrolled at a qualifying higher-education institution in a supported region; must use a personal Google account; verification completed via SheerID using student ID or enrollment proof; a valid payment method may be required during activation (first year free for eligible students).
   * **Cost:** Free
-  * **Link:** https://gemini.google.com/access
+  * **Link:** https://gemini.google/students/
+
+* Anthropic (Claude) Student Builder Program  
+  * **Short Description:** Program offering free API credits for college students to build with Claude models.
+  * **Benefit:** Provides students with funding in the form of API credits to integrate state-of-the-art Claude AI into academic projects and experiments.
+  * **Verification:** Requires an application including university affiliation, expected graduation date, and a project description. An existing offer also grants $5 in API credits after phone verification.
+  * **Cost:** Credit
+  * **Link:** https://www.claude.com/programs/campus/
+
+* OpenAI Researcher Access Program  
+  * **Short Description:** Subsidized API access for researchers studying responsible AI deployment, risk mitigation, and societal impacts.
+  * **Benefit:** Researchers can apply for up to $1,000 of subsidized OpenAI API credits to support their work.
+  * **Verification:** Requires an active affiliation to an academic institution or research organization. Applications are reviewed every 3 months (March, June, September, and December).
+  * **Cost:** Credit
+  * **Link:** https://openai.com/form/researcher-access-program/
 
 * Kaggle  
   * **Short Description:** Free GPU & TPU notebooks for ML experiments.
   * **Benefit:** Provides hosted Jupyter-like notebooks with free accelerators for training and experimenting.
   * **Verification:** Requires a Kaggle account; no formal student verification for free usage.
   * **Cost:** Free
-  * **Link:** https://www.kaggle.com/notebooks
+  * **Link:** https://www.kaggle.com/notebooks/
 
 * Google Colab  
   * **Short Description:** Free cloud notebook environment with GPU access.
@@ -197,7 +211,7 @@ This list powers the live student tools page on:
   * **Benefit:** Helps you log metrics, compare runs, and manage experiments professionally.
   * **Verification:** Free tier available; educational or research upgrades may require additional details.
   * **Cost:** Free
-  * **Link:** https://wandb.ai/site
+  * **Link:** https://wandb.ai/site/
 
 ---
 
@@ -207,16 +221,16 @@ This list powers the live student tools page on:
 * MongoDB Atlas (Student Credit)  
   * **Short Description:** Fully-managed cloud NoSQL database with student credit.
   * **Benefit:** Lets you run real MongoDB clusters in the cloud without managing servers.
-  * **Verification:** Student-specific offers may require GitHub Education or school email; base free tier is general.
+  * **Verification:** Student credit requires GitHub Student verification; base free tier requires only a MongoDB account.
   * **Cost:** Credit
-  * **Link:** https://education.github.com/pack?sort=popularity&tag=Databases
+  * **Link:** https://education.github.com/pack/
 
 * Firebase  
   * **Short Description:** Authentication, hosting, realtime DB, and serverless functions.
   * **Benefit:** Gives you a full backend stack (auth, DB, hosting) for web and mobile apps.
   * **Verification:** Requires a Google account; generous free tier available without student-specific proof.
   * **Cost:** Free
-  * **Link:** https://firebase.google.com/pricing
+  * **Link:** https://firebase.google.com/pricing/
 
 * AWS DynamoDB  
   * **Short Description:** NoSQL database with an always-free usage tier.
@@ -284,6 +298,13 @@ This list powers the live student tools page on:
   * **Cost:** Discount
   * **Link:** https://learn.microsoft.com/en-us/certifications/student-hub
 
+* AWS Education Programs (AWS Academy & Student Learning Paths)  
+  * **Short Description:** Structured cloud learning resources offered through universities, including instructor-led AWS Academy courses and self-paced student pathways.
+  * **Benefit:** Provides official AWS curricula, hands-on labs, and exam-prep materials used in academic programs worldwide. Does not directly provide cloud credits, but prepares you for certifications.
+  * **Verification:** Requires your institution to participate in AWS Academy or you must sign up using a school email for student learning paths.
+  * **Cost:** Free
+  * **Link:** https://aws.amazon.com/education/
+
 * JetBrains Academy / Hyperskill  
   * **Short Description:** Project-based interactive learning with student pricing.
   * **Benefit:** Helps you learn by building guided, real-world style projects.
@@ -310,7 +331,7 @@ This list powers the live student tools page on:
   * **Benefit:** Allows you to take university and industry courses via your school.
   * **Verification:** Requires your institution to be enrolled; access is via school login.
   * **Cost:** Free
-  * **Link:** https://www.coursera.org/campus
+  * **Link:** https://www.coursera.org/campus/
 
 ---
 
@@ -320,7 +341,7 @@ This list powers the live student tools page on:
 * Canva Pro for Students  
   * **Short Description:** Presentation & design tool with premium student access.
   * **Benefit:** Lets you design slides, posters, and social graphics with pro templates.
-  * **Verification:** Requires school domain or verification through an education program.
+  * **Verification:** Requires a school-issued email or validation through Canva for Education.
   * **Cost:** Free
   * **Link:** https://www.canva.com/education/students/
 
@@ -360,7 +381,7 @@ This list powers the live student tools page on:
 * TryHackMe  
   * **Short Description:** Hands-on cybersecurity labs with student paths.
   * **Benefit:** Lets you practice offensive and defensive security in guided environments.
-  * **Verification:** Base tier is free; student discounts or team access may require verification.
+  * **Verification:** Free foundational modules; discounts require proof of academic status.
   * **Cost:** Free
   * **Link:** https://tryhackme.com/
 
@@ -374,7 +395,7 @@ This list powers the live student tools page on:
 * Splunk for Students  
   * **Short Description:** Free access to Splunk fundamentals.
   * **Benefit:** Teaches you how to use SIEM/log analytics platforms used in SOCs.
-  * **Verification:** Typically part of Splunk education/Work+ programs; may need school details.
+  * **Verification:** Access is provided through SplunkWork+; eligibility may require school or workforce program participation.
   * **Cost:** Free
   * **Link:** https://workplus.splunk.com/programs/splunkworkplusforstudents/
 
@@ -393,7 +414,7 @@ This list powers the live student tools page on:
 * Microsoft 365 (with School Account)  
   * **Short Description:** Word, Excel, PowerPoint, Teams — free for most universities.
   * **Benefit:** Gives you core productivity tools needed for coursework and collaboration.
-  * **Verification:** Requires eligible school email; availability depends on institution.
+  * **Verification:** Requires school email from an institution subscribed to Microsoft 365 A1/A3/A5.
   * **Cost:** Free
   * **Link:** https://www.microsoft.com/en-us/education/products/office
 
@@ -407,7 +428,7 @@ This list powers the live student tools page on:
 * Overleaf  
   * **Short Description:** Collaborative LaTeX editor for papers & reports.
   * **Benefit:** Makes writing LaTeX documents easier with real-time collaboration.
-  * **Verification:** Free tier is open to all; institutional features may require campus agreements.
+  * **Verification:** Free tier is open to all; enhanced features require login through an institution participating in Overleaf Commons.
   * **Cost:** Free
   * **Link:** https://www.overleaf.com/edu
 
