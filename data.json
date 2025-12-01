@@ -442,19 +442,5 @@
         "cost": "Free"
       }
     ]
-  },
-  "how-to-contribute": {
-    "title": "## ✔️ How to contribute",
-    "description": "",
-    "tools": [
-      {
-        "name": "Tool Name",
-        "short_desc": "...",
-        "benefit": "...",
-        "verification": "...",
-        "link": "...",
-        "cost": "Free / Credit / Discount"
-      }
-    ]
   }
 }
