@@ -114,6 +114,18 @@ This list powers the live student tools page on:
 
 ---
 
+<a id="developer-tools"></a>
+# 🚀 Test Tools
+
+* Test Developer Pack  
+  * **Short Description:** Access a massive bundle of developer tools, cloud credits, IDEs, and more for free.
+  * **Benefit:** Unlocks an entire ecosystem of premium dev tools and services with a single student verification.
+  * **Verification:** Requires GitHub Education student verification (typically a school email or proof of enrollment).
+  * **Cost:** Free
+  * **Link:** https://education.github.com/students
+
+---
+
 <a id="cloud-platforms--compute-credits"></a>
 # ☁️ Cloud Platforms & Compute Credits
 
