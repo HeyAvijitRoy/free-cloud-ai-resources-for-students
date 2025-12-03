@@ -504,6 +504,6 @@ If you know about **any free student tools, cloud credits, or high-value resourc
 <a id="license"></a>
 # 📄 License
 
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+**[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)**  
 You are free to share and adapt this list with attribution.
 
