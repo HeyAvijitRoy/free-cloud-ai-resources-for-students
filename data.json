@@ -20,6 +20,14 @@
         "cost": "Free"
       },
       {
+        "name": "Cursor AI",
+        "short_desc": "AI-powered code editor built on VS Code for faster, smarter development.",
+        "benefit": "Provides a high-performance IDE with built-in AI chat, code generation, and \"Composer\" for complex coding tasks—completely free for one year.",
+        "verification": "Sign up with a .edu email and verify via SheerID (requires student ID or government-issued ID/driving license).",
+        "link": "https://cursor.com/students",
+        "cost": "Free"
+      },
+      {
         "name": "Visual Studio Community Edition",
         "short_desc": "Free full-featured IDE for .NET, C++, and cross-platform development.",
         "benefit": "Gives you the same IDE used in industry for building professional Windows and .NET applications.",
