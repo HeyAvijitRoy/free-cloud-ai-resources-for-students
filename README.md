@@ -51,19 +51,27 @@ This list powers the live student tools page on:
 
 > Click to jump directly to any section:
 
-- [Developer Tools](#developer-tools)
-- [Cloud Platforms & Compute Credits](#cloud-platforms--compute-credits)
-- [AI/ML Tools & Free GPU Access](#aiml-tools--free-gpu-access)
-- [Databases & Storage](#databases--storage)
-- [DevOps Monitoring & Deployment](#devops-monitoring--deployment)
-- [Learning Platforms & Certifications](#learning-platforms--certifications)
-- [Design / Creative Tools](#design--creative-tools)
-- [Cybersecurity Tools](#cybersecurity-tools)
-- [Productivity & Research Tools](#productivity--research-tools)
-- [Best Strategy for Students](#best-strategy-for-students)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
+- [Student Tools — Free \& Discounted Resources](#student-tools--free--discounted-resources)
+- [🎯 Purpose](#-purpose)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [🧭 Navigation](#-navigation)
+- [🚀 Developer Tools](#-developer-tools)
+- [☁️ Cloud Platforms \& Compute Credits](#️-cloud-platforms--compute-credits)
+- [🧠 AI/ML Tools \& Free GPU Access](#-aiml-tools--free-gpu-access)
+- [🗄️ Databases \& Storage](#️-databases--storage)
+- [🔧 DevOps Monitoring \& Deployment](#-devops-monitoring--deployment)
+- [📚 Learning Platforms \& Certifications](#-learning-platforms--certifications)
+- [🎨 Design / Creative Tools](#-design--creative-tools)
+- [🔐 Cybersecurity Tools](#-cybersecurity-tools)
+- [🧰 Productivity \& Research Tools](#-productivity--research-tools)
+- [🏁 Best Strategy for Students](#-best-strategy-for-students)
+- [🤝 Contributing](#-contributing)
+    - [✔️ How to contribute](#️-how-to-contribute)
+    - [✔️ What to contribute](#️-what-to-contribute)
+- [🙌 Credits](#-credits)
+    - [**Maintainer**](#maintainer)
+    - [**Contributors**](#contributors)
+- [📄 License](#-license)
 
 ---
 
@@ -83,6 +91,13 @@ This list powers the live student tools page on:
   * **Verification:** Generally available with a Google account; check the page for any region or access limitations.
   * **Cost:** Free
   * **Link:** https://antigravity.google/
+
+* Cursor AI
+  * **Short Description:** AI-powered code editor built on VS Code for faster, smarter development.
+  * **Benefit:** Provides a high-performance IDE with built-in AI chat, code generation, and "Composer" for complex coding tasks—completely free for one year.
+  * **Verification:** Sign up with a .edu email and verify via SheerID (requires student ID or government-issued ID/driving license).
+  * **Cost:** Free
+  * **Link:** https://cursor.com/students
 
 * Visual Studio Community Edition  
   * **Short Description:** Free full-featured IDE for .NET, C++, and cross-platform development.
@@ -446,7 +461,7 @@ This list powers the live student tools page on:
 
 1. Start with **GitHub Education Pack**  
 2. Activate **Azure + AWS + GCP free tiers**  
-3. Use **JetBrains / VS / Replit**  
+3. Use **Cursor / JetBrains / VS / Replit**  
 4. Train ML on **Kaggle / Colab / SageMaker**  
 5. Deploy using **DigitalOcean / Azure / Heroku**  
 6. Store data in **MongoDB / Firebase / S3**  
