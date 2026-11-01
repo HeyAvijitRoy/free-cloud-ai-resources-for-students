@@ -426,6 +426,13 @@ This list powers the live student tools page on:
 <a id="productivity--research-tools"></a>
 # 🧰 Productivity & Research Tools
 
+* Kilobat Pro for Students
+  * **Short Description:** Mac network diagnostics and hotspot data monitoring.
+  * **Benefit:** One year of Pro free for two Macs; request another year while enrolled.
+  * **Verification:** Students aged 13+ in a degree-granting course email from their school address.
+  * **Cost:** Free for eligible students; no payment or Kilobat account needed.
+  * **Link:** https://kilobat.app/students
+
 * Microsoft 365 (with School Account)  
   * **Short Description:** Word, Excel, PowerPoint, Teams — free for most universities.
   * **Benefit:** Gives you core productivity tools needed for coursework and collaboration.
